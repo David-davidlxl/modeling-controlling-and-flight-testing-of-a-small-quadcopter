@@ -1,0 +1,17 @@
+controlCommand.o controlCommand.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/toolbox/target/supportpackages/parrot/src/controlCommand.c \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/SUPPOR~1/parrot/include/controlCommand.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/SUPPOR~1/parrot/include/HAL.h \
+ C:/Users/david/OneDrive/DOCUME~1/PART15~1/EECS49~1/TECHNI~1/AS1681~1/work/flightControlSystem_ert_rtw/flightControlSystem_types.h \
+ C:/Users/david/OneDrive/DOCUME~1/PART15~1/EECS49~1/TECHNI~1/AS1681~1/work/slprj/ert/_sharedutils/rtwtypes.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2022b\toolbox\target\supportpackages\parrot\include\HAL.h
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/SUPPOR~1/parrot/include/controlCommand.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/SUPPOR~1/parrot/include/HAL.h:
+
+C:/Users/david/OneDrive/DOCUME~1/PART15~1/EECS49~1/TECHNI~1/AS1681~1/work/flightControlSystem_ert_rtw/flightControlSystem_types.h:
+
+C:/Users/david/OneDrive/DOCUME~1/PART15~1/EECS49~1/TECHNI~1/AS1681~1/work/slprj/ert/_sharedutils/rtwtypes.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2022b\toolbox\target\supportpackages\parrot\include\HAL.h:

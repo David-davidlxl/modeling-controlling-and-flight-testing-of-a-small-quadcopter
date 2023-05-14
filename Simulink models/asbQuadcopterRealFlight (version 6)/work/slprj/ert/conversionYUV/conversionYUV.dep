@@ -1,0 +1,14 @@
+conversionYUV.o conversionYUV.o: \
+ C:/Users/david/OneDrive/DOCUME~1/PART15~1/EECS49~1/TECHNI~1/AS1681~1/work/slprj/ert/conversionYUV/conversionYUV.c \
+ C:/Users/david/OneDrive/DOCUME~1/PART15~1/EECS49~1/TECHNI~1/AS1681~1/work/slprj/ert/conversionYUV/conversionYUV.h \
+ C:/Users/david/OneDrive/DOCUME~1/PART15~1/EECS49~1/TECHNI~1/AS1681~1/work/slprj/ert/_sharedutils/rtwtypes.h \
+ C:/Users/david/OneDrive/DOCUME~1/PART15~1/EECS49~1/TECHNI~1/AS1681~1/work/slprj/ert/conversionYUV/conversionYUV_types.h \
+ C:/Users/david/OneDrive/DOCUME~1/PART15~1/EECS49~1/TECHNI~1/AS1681~1/work/slprj/ert/conversionYUV/conversionYUV_private.h
+
+C:/Users/david/OneDrive/DOCUME~1/PART15~1/EECS49~1/TECHNI~1/AS1681~1/work/slprj/ert/conversionYUV/conversionYUV.h:
+
+C:/Users/david/OneDrive/DOCUME~1/PART15~1/EECS49~1/TECHNI~1/AS1681~1/work/slprj/ert/_sharedutils/rtwtypes.h:
+
+C:/Users/david/OneDrive/DOCUME~1/PART15~1/EECS49~1/TECHNI~1/AS1681~1/work/slprj/ert/conversionYUV/conversionYUV_types.h:
+
+C:/Users/david/OneDrive/DOCUME~1/PART15~1/EECS49~1/TECHNI~1/AS1681~1/work/slprj/ert/conversionYUV/conversionYUV_private.h:
